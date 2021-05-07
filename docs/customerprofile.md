@@ -72,7 +72,7 @@ As explained before, the API call will retrieve the data for unified profile by 
 At the end, a simple call will look like this:
 
 ```python
-profile = myProfiles.getEntity(entityId="09237308232164398232158732346",entitiyIdNS='ecid')
+profile = myProfiles.getEntity(entityId="09237308232164398232158732346",entityIdNS='ecid')
 ```
 
 A more complex call with Experience Event and Profile:
